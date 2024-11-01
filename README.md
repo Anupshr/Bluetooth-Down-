@@ -12,10 +12,15 @@ DISCLAIMER: This software is provided "as is" without any warranty. Usage is at 
 
 # Installation
 $ sudo apt update
+
 $ sudo apt install python3
+
 $ sudo git clone https://github.com/
+
 $ cd BLUETOOTH-Down/
+
 $ python3 Bluetooth-down.py
+
 
 
 # Note
