@@ -1,14 +1,14 @@
 # Bluetooth-Down 
 Bluetooth-Down tool used for down means dos attack in bluetooth devices 
-Bluetooth DOS-Attack Script
+Bluetooth-Down- Tool
 # Python Version
 
-Script for conducting DOS-attacks on Bluetooth devices for pentest purposes.
+Script for conducting DOS-attacks on Bluetooth devices for pentest purposes or testing purpose only
 
 # Disclaimer
-This project was created for educational purposes and personal use only.
+This project was created for educational purposes and personal use.
 
-DISCLAIMER: This software is provided "as is" without any warranty. Usage is at your own risk. The developers assume no liability for any misuse or damage caused by this program.
+DISCLAIMER: This software is provided "as is" without any warranty. Usage is at your own risk. 
 
 # Installation
 $ sudo apt update
