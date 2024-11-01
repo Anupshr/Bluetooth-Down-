@@ -15,7 +15,7 @@ $ sudo apt update
 
 $ sudo apt install python3
 
-$ sudo git clone https://github.com/
+$ sudo git clone https://github.com/Anupshr/Bluetooth-Down-.git
 
 $ cd BLUETOOTH-Down/
 
