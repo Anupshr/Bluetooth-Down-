@@ -19,7 +19,7 @@ $ sudo git clone https://github.com/Anupshr/Bluetooth-Down-.git
 
 $ cd BLUETOOTH-Down/
 
-$ python3 Bluetooth-down.py
+$ python3 Bluetooth-Down.py
 
 
 
